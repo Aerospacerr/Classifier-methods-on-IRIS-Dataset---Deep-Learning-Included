@@ -1,4 +1,4 @@
-# Item Based Collaborative Movie Recommendation System
+# K-means & Decision Tree Classifier with IRIS Dataset 
 
 <p align="center">
 	<img src="  " />
