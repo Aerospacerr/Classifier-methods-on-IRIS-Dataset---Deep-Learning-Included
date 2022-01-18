@@ -8,16 +8,15 @@
 ## Table of contents
 * [General info](#general-info)
 * [Dataset info](#dataset-info)
-* [Project info](#project-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Developments](#developments)
 
 ## General info
-We are going implement a decision tree classifier, train with iris dataset finally analyze the results of the classification.
+We did perform an exploratory data analysis (EDA) on Iris dataset before, here this link:
+https://github.com/Aerospacerr/Iris-Dataset-Exploratory-Data-Analysis
 
-## Project info
-Here we will try different machine learning methods on our benchmark dataset IRIS. 
+Now we will implement classifier methods as a benchmark for Iris dataset. It will be a live script which I will try to update weekly with different methods and try to improve method's accuracy. Just for start, it includes K-means & Decision tree classifier and also a Deep Learning-Neural Network predictor for classification.
+
 ## Dataset info
 Iris dataset is the best known dataset in the machine learning literature. It contains 150 samples, 50 samples for each of the 3 classes. Class labels are given in the last column of the dataset as integer values and 0, 1, 2 refers to setosa, versicolor, virginica respectively.
 
@@ -38,10 +37,7 @@ Project is created with:
 * Pandas: 1.3.4 
 * Numpy
 * Scikit
-
-
-	
-## Setup
+* Tensorflow
 
 ## Developments 
 It will be a live document. As machine learning methods added, we try to update.
