@@ -1,4 +1,4 @@
-# Classifier methods on IRIS Dataset - Deep Learning Included 
+# Classifier methods on IRIS Dataset / Deep Learning Included 
 
 <p align="center">
 	<img src="  https://miro.medium.com/max/1400/1*f6KbPXwksAliMIsibFyGJw.png" />
